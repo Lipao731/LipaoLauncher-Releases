@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "tag": "launcher-v1.0.0",
+  "version": "1.0.1",
+  "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
-  "notes": "Primeira versão pública do Lipão Launcher."
+  "notes": "Versão de teste do sistema de atualização automática do Lipão Launcher."
 }
