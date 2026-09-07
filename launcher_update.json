@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "tag": "launcher-v1.0.0",
+  "version": "1.0.1",
+  "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
-  "notes": "Adicionado sistema de atualização automática do Lipão Launcher."
+  "notes": "Adicionado Procurar pasta automatico, melhorias visuais e melhorado configurações para facilitar o uso do Laucher e adição de um mini easter egg."
 }
