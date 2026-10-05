@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "tag": "launcher-v1.0.2",
+  "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
-  "notes": "Adicionado Procurar pasta automatico, melhorias visuais e melhorado configurações para facilitar o uso do Laucher e adição de um mini easter egg."
+  "notes": "Melhorias no visual, cards das sagas do Kakarot, imagens pelo catálogo online e download de arquivos divididos em partes."
 }
