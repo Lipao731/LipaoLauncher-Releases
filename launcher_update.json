@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "tag": "launcher-v1.0.2",
+  "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
   "notes": "Adicionado integração de mods externos do Gamebanana e Nexus"
 }
