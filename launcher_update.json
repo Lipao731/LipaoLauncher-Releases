@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
-  "notes": "Melhorias no visual, cards das sagas do Kakarot, imagens pelo catálogo online e download de arquivos divididos em partes."
+  "notes": "Adicionado integração de mods externos do Gamebanana e Nexus"
 }
