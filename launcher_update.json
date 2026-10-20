@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "tag": "launcher-v1.0.1",
   "asset": "LipaoLauncher.exe",
-  "notes": "Redesign da interface, navegação e biblioteca. Comunidade com feed, perfis, grupos e mensagens, Publicações com mídia, GIFs do GIPHY, emojis, enquetes e agendamento. Nova aba Anime com 659 episódios e 21 filmes."
+  "notes": "Suporte a Xenoverse 2 e FigtherZ e volta do Botão para baixar todos"
 }
