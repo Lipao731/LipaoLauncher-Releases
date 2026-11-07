@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "tag": "launcher-v1.0.1",
+  "version": "1.0.8",
+  "tag": "launcher-v1.0.2",
   "asset": "LipaoLauncher.exe",
-  "notes": "Suporte a Xenoverse 2 e FigtherZ e volta do Botão para baixar todos"
+  "notes": "Instala pacotes de mods e dublagens hospedados em Releases privadas pelo botão Instalar."
 }
