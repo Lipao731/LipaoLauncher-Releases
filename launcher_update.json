@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "tag": "launcher-v1.0.2",
+  "version": "1.0.9",
+  "tag": "launcher-v1.0.3",
   "asset": "LipaoLauncher.exe",
-  "notes": "Instala pacotes de mods e dublagens hospedados em Releases privadas pelo botão Instalar."
+  "notes": "Melhorias e correções."
 }
